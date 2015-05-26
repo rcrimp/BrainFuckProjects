@@ -12,3 +12,4 @@ A simple interpreter for brainfuck, a fairly simple project, but fun nonetheless
 
 * loop functionality
 * arbitrary sized tape
+* comments
